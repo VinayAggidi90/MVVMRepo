@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "610186820442",
+    "project_id": "dopay-challenge",
+    "storage_bucket": "dopay-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610186820442:android:2a166d4a0f008b309a9163",
+        "android_client_info": {
+          "package_name": "com.dopay.framework.mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610186820442-gihrqv58b703se8o9dbsu8j7fs2bp14l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dopay.framework.mvvm",
+            "certificate_hash": "485ebeea9595ab4ed87a2c9cde529eac3efeb011"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU04tfQlEYvdEpTW-XWBjV0oXEIb9v3qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
