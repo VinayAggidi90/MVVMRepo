@@ -1,4 +1,4 @@
-# Dopay Coding Challenge Android MVVM Architecture with Java,Kotlin,Android Architectural Components,Jetpack,Dagger,RxJava/RxAndroid,RxNetworking.
+#Android MVVM Architecture with Java,Kotlin,Android Architectural Components,Jetpack,Dagger,RxJava/RxAndroid,RxNetworking.
 
 Integrating the youtube api (setup key required) list the most popular videos:
 
