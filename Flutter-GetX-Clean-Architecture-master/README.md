@@ -1,8 +1,8 @@
 #Dukkantek Code Challenge Flutter with Getx and Dio Networking.
+-------------------------------------------------------------------------------------------------
 
 
 Please provide the code on github or a repo of your choosing for review.
--------------------------------------------------------------------------------------------------
 
 Application Developed Using Flutter.
 Platforms : Android & Ios
